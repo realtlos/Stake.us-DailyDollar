@@ -149,6 +149,6 @@ powershell -ExecutionPolicy Bypass -File .\windows\delete-task.ps1
 
 ## Disclaimer
 
-This repo is for **educational purposes**. It only opens a web page; it does not automate clicks or claim bonuses. You’re responsible for complying with Stake.us Terms of Service.
+This repo is for **educational purposes**. It only opens a web page; it does not automate clicks or claim bonuses. You’re responsible for complying with Stake.us Terms of Service. If you have any questions feel free to contact @realtlos
 
 ---
