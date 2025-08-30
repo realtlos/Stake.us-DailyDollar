@@ -152,7 +152,3 @@ powershell -ExecutionPolicy Bypass -File .\windows\delete-task.ps1
 This repo is for **educational purposes**. It only opens a web page; it does not automate clicks or claim bonuses. You’re responsible for complying with Stake.us Terms of Service.
 
 ---
-
-## Contributing
-
-PRs to improve instructions, add Linux examples (`cron` + `xdg-open`), or add notification popups are welcome!
